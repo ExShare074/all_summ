@@ -11,3 +11,6 @@ start_value = 1
 end_value = 52
 result = sum_range(start_value, end_value)
 print(f"Сумма всех целых чисел от {start_value} до {end_value} равна: {result}")
+
+
+print("Hello, World!")
